@@ -1,0 +1,23 @@
+{   "lang": "zh-cn",
+    "dir": "ltr",
+    "name": "零叁的个人博客",
+    "description": "baihw.us.kg",
+    "display": "standalone",
+    "short_name": "零叁",
+    "scope": "/",
+    "start_url": "/",
+    "theme_color": "#150102",
+    "background_color": "#150102",
+    "icons": [
+        {
+            "src": "/img/siteicon/apple-touch-icon.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/siteicon/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]   
+}
